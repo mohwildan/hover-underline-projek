@@ -32,7 +32,7 @@ a{
 a::after{
     content: '';
     position: absolute;
-    background-color: #ff3c78;
+    background-color: #229eb4;
     height: 3px;
     width: 0;
     left: 0;
